@@ -2,10 +2,10 @@ Gem::Specification.new do |s|
 
   # Required attributes
   s.authors       = ["Fred Turkington"]
-  s.files         = ["lib/bonjour.rb"]
+  s.files         = ["lib/bonjour.rb", "lib/bonjour/translator.rb"]
   s.name          = 'bonjour'
   s.summary       = "Bonjour, tout le monde"
-  s.version       = '0.0.2'
+  s.version       = '0.0.3'
   
   # Optional attributes
   s.homepage      = 'https://rubygems.org/gems/bonjour'
