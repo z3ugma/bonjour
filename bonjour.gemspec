@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.files         = ["lib/bonjour.rb"]
   s.name          = 'bonjour'
   s.summary       = "Bonjour, tout le monde"
-  s.version       = '0.0.1'
+  s.version       = '0.0.2'
   
   # Optional attributes
   s.homepage      = 'https://rubygems.org/gems/bonjour'
