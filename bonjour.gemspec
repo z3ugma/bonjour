@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
 
   # Required attributes
   s.authors       = ["Fred Turkington"]
-  s.files         = Dir["{lib}/**/*.rb" ]
+  s.files         = Dir["{lib}/**/*.rb", "*.md" ]
   s.require_path  = 'lib'
   s.name          = 'bonjour'
   s.summary       = "Bonjour, tout le monde"
