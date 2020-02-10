@@ -6,3 +6,4 @@ class Bonjour
 end
 
 require 'bonjour/translator'
+require 'bonjour/version'
